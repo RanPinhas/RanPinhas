@@ -1,5 +1,4 @@
-👋 Hey there - I'm Ran Pinhas
-
+<h1 align="center">Hi there, I'm Ran Pinhas 👋</h1>
 I’m based in Israel.
 💻 Computer Science Student (2nd year) at Afeka College of Engineering
 📱 Passionate about Android Development | 🔧 Strong background in Hardware & System Logic
